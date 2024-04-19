@@ -31,4 +31,4 @@ Se ha comprobado el correcto funcionamiento del proyecto con las siguientes vers
 # Uso
 1. Clonar el repositorio
 2. Acceder a la carpeta del repositorio
-3. Abrir Racket y ejecutar el ejercicio deseado
+3. Abrir DrRacket (incluído al instalar Racket) y ejecutar el ejercicio deseado
