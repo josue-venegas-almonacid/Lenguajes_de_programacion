@@ -1,0 +1,26 @@
+#lang scheme
+
+(define armar
+  (lambda (x y)
+    (let armar ( (resultado x) (lista y) )
+      (obtener-sumas resultado lista (length lista))
+      )
+    )
+  )
+
+(define obtener-sumas
+  (lambda (x y z)
+    (let obtener-sumas( (resultado x) (lista y) (len z) (sumas '()) (cont 1) )
+      (if (eqv? cont len)
+          (if (null? sumas)
+              #f
+              sumas
+              )
+          (if (equal? (+ (first lista) (second lista)) resultado)
+              1
+              0)
+              
+          )
+      )
+    )
+  )
