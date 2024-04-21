@@ -4,7 +4,7 @@ Lenguajes de Programación
 
 # Descripción
 
-Repositorio utilizado para alojar el proyecto y los ejercicios desarrollados durante el curso "Lenguajes de Programación"
+Repositorio utilizado para alojar el proyecto y los ejercicios desarrollados durante el curso "Lenguajes de Programación" el segundo semestre del año 2019 en la Universidad Técnica Federico Santa María, para la carrera de Ingeniería Civil en Informática.
 
 # Creadores
 - Benjamin Guzman Lopez 201873627-9
